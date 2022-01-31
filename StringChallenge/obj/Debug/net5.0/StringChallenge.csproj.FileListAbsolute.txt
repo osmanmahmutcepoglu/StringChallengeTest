@@ -1,0 +1,16 @@
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\StringChallenge.exe
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\StringChallenge.deps.json
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\StringChallenge.runtimeconfig.json
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\StringChallenge.runtimeconfig.dev.json
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\StringChallenge.dll
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\StringChallenge.dll
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\StringChallenge.pdb
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\StringChallenge.csproj.AssemblyReference.cache
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\StringChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\StringChallenge.AssemblyInfoInputs.cache
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\StringChallenge.AssemblyInfo.cs
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\StringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\StringChallenge.dll
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\StringChallenge.dll
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\StringChallenge.pdb
+C:\Users\lce_b\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\StringChallenge.genruntimeconfig.cache
